@@ -1,0 +1,19 @@
+extraLargeArray run times:
+insert: 2.2631399 s
+append: 5.9013 ms
+
+largerArray
+insert: 17.7901 ms
+append: 1.1576 ms
+
+mediumArray
+insert:906.1 us
+append:436.8 us
+
+smallArray
+insert: 109.8 us
+append: 439.6 us
+
+tinyArray
+insert: 101.8 us
+append:  239.1 us
